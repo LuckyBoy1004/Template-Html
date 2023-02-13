@@ -1,0 +1,103 @@
+button.primary:hover {
+    background-color: #A41A1A;
+    color: #FAFAFA;
+}
+
+.primary-danger {
+    background-color: #A41A1A;
+    color: #FAFAFA;
+}
+
+.primary-danger:hover {
+    background-color: white;
+    color: #1B1C1E;
+}
+
+button.primary {
+    background-color: white
+}
+
+button.secondary:hover {
+    background-color: #D3D3D3;
+    color: #FAFAFA;
+}
+
+button.tertiary:hover {
+    background-color: #606060;
+    color: #FAFAFA;
+}
+
+button.drop-showdow {
+    background-color: #A41A1A;
+    color: #FAFAFA;
+}
+
+.color-box {
+    width: 50px;
+    height: 50px;
+}
+
+.color-white {
+    background-color: #FAFAFA;
+    color: #FAFAFA;
+}
+
+.color-light-gray {
+    background-color: #D3D3D3;
+}
+
+.color-black {
+    background-color: #1B1C1E;
+}
+
+.color-medium-gray {
+    background-color: #7F8C8D;
+}
+
+.color-dark-gray {
+    background-color: #606060;
+}
+
+.color-Button {
+    background-color: #A41A1A;
+}
+
+.color-pending {
+    background-color: #F27520;
+}
+
+.color-notifications-drafts {
+    background-color: #F8D231;
+}
+
+.color-approved {
+    background-color: #008000;
+}
+
+.color-links {
+    background-color: #41658A;
+}
+
+.text-links {
+    color: #41658A !important;
+}
+
+.color-gradient {
+    background: #41658A;
+    color: #FAFAFA;
+    background: -webkit-linear-gradient(to top, rgba(65, 101, 138, 0.5), #41658A);
+    background: linear-gradient(to top, rgba(65, 101, 138, 0.5), #41658A);
+}
+
+.input-group-text {
+    width: 32px !important;
+    height: 32px !important;
+}
+
+.form-check-input:checked[type=checkbox] {
+    background-color: #008000;
+}
+
+.secondary-footer {
+    background-color: #FAFAFA;
+}
